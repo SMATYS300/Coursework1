@@ -37,6 +37,9 @@ public class CurrencyConverter {
                                 break;
                 }
                 System.out.println("Thank you for using the converter.");
+         public static void no_input_test(String[] args) {
+         amount = " ";
+         }
         }
 
 }
